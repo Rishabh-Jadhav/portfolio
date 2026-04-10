@@ -50,8 +50,14 @@ This is my personal portfolio website built to showcase my skills, projects, and
 ### 👨‍💻 Projects Section
 ![Projects](images/projects.png)
 
+### 🛠️ Skills Section
+![Skills](images/skills.png)
+
 ### 📱 Mobile View
 ![Mobile](images/mobile.png)
+
+### 
+
 ---
 
 ## ⚙️ How to Run Locally
