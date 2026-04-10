@@ -84,8 +84,16 @@ git clone https://github.com/your-username/your-repo-name.git
 ---
 
 ## 📬 Contact
-
 Feel free to connect with me for opportunities, collaboration, or queries.
+
+📧 Email: rishabhjadhav1070@email.com
+
+🔗 GitHub: https://github.com/Rishabh-Jadhav
+
+💼 LinkedIn: https://www.linkedin.com/in/rishabh-jadhav-55b550372/
+
+💻 HackerRank: https://www.hackerrank.com/profile/rishabhjadhav103
+
 
 
 ⭐ If you like this project, don't forget to star the repository!
