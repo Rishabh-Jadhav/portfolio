@@ -12028,8 +12028,8 @@ body {
   height: 75vw;
   width: 75vw;
   border-radius: 5vw;
-  margin-top: 5vw;
-  max-height: 40rem;
+  margin-top: 10vw;
+  max-height: 20rem;
   max-width: 40rem;
   
 }
@@ -12037,11 +12037,11 @@ body {
   height: 80vw;
   max-height: 36rem;
   position: absolute;
-  bottom: -1rem;
+  bottom: 0rem;
   left: 50%;
   transform: translateX(-50%);
-  border-radius: 8vw;
-  border: 2px solid blue;
+  /* border-radius: 8vw; */
+  /* border: 2px solid blue; */
   
 }
 .profile .dots-1 {
