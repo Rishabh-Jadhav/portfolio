@@ -12023,6 +12023,31 @@ body {
   font-size: 1.5rem;
 }
 
+.skills-btn{
+    display:inline-flex;
+    align-items:center;
+    gap:10px;
+    padding:15px 35px;
+    border-radius:50px;
+    background:rgba(255,255,255,0.1);
+    backdrop-filter:blur(10px);
+    border:1px solid rgba(255,255,255,0.2);
+    color:white;
+    text-decoration:none;
+    font-weight:600;
+    transition:0.3s;
+}
+
+.skills-btn:hover{
+    background:rgba(255,255,255,0.2);
+    transform:translateY(-5px);
+}
+
+.skills-btn{
+    width: 280px;
+    justify-content: center;
+}
+
 .profile {
   position: relative;
   height: 75vw;
